@@ -1,8 +1,8 @@
 
-# Hello / よろしく
+# Hello
 
-### I'm Daniel / ダニエルです
-##### ★ Currently working as a Java software developer.
+### I'm Daniel
+##### Currently working as a Java software developer.
 ##### Feel free to contribute to my personal projects or teach me something new
 
 
